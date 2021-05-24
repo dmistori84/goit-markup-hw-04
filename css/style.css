@@ -181,6 +181,8 @@ img {
     url("../images/bg.png");
   background-repeat: no-repeat;
   background-position: center;
+  width: 1600px;
+  margin: 0 auto;
 }
 .heading {
   width: 696px;
